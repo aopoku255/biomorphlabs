@@ -1811,7 +1811,7 @@
     align-items: center;
     column-gap: 30px;
     padding: 40px;
-    height: 12rem;
+    height: calc(100vh - 7rem);
 }
 
 .promo-section.move-top {
